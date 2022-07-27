@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=valyriasteel)](#)
 
 <td><a href="https://instagram.com/beratbosnak">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-#013220?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-  
 
 ![Berat Boşnak's GitHub stats](https://github-readme-stats.vercel.app/api?username=valyriasteel&show_icons=true&theme=radical)
 
