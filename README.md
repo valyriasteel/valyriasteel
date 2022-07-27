@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 ![Berat Boşnak's GitHub stats](https://github-readme-stats.vercel.app/api?username=valyriasteel&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyriasteel)](https://github.com/valyriasteel/github-readme-stats)
-
-[link burada](http://google.fr "google")
