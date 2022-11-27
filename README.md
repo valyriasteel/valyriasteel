@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 </a> 
 
 ![Berat Boşnak's GitHub stats](https://github-readme-stats.vercel.app/api?username=valyriasteel&show_icons=true&theme=radical)
+ 
 <p align="center">
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sevimozsoy&theme=dark&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valyriasteel&layout=compact&langs_count=8&theme=dark"/>
