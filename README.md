@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Berat</h1>
-<h3 align="center">Test</h3>
+<h1 align="center">Hi, I'm Berat</h1>
+<h3 align="center">I'm a passionate software enthusiast advancing through the advanced curriculum at 42 Kocaeli Software School, with a strong focus on cybersecurity—especially penetration testing. I love the challenge of securing systems and ethically testing vulnerabilities.
+
+While I don’t have formal work experience yet, I’m actively honing my skills through hands-on projects and self-study. I stay updated on the latest cybersecurity trends and tools, always eager to learn, collaborate, and tackle real-world security challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valyriasteel&label=Profile%20views&color=0e75b6&style=flat" alt="valyriasteel" /> </p>
 
