@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Berat</h1>
-<h3 align="center">I’m a passionate software enthusiast who has completed the foundational curriculum at 42 Kocaeli Software School and is currently advancing through the advanced curriculum. My primary interest lies in cybersecurity, particularly in penetration testing. I find the challenge of protecting systems or ethically testing their vulnerabilities incredibly rewarding.
+<h3 align="center">I’m a student at 42 Kocaeli Software School, where I have completed the core curriculum and am currently advancing in the cybersecurity track of the advanced curriculum.
 
-I’m driven by a love for technology and innovation, and I’m constantly seeking to expand my knowledge in the cybersecurity field. I’ve been actively developing my skills through hands-on projects and self-study. I’m particularly focused on mastering tools and techniques used in penetration testing, and I’m excited about the opportunity to contribute to real-world security challenges.
+Throughout this journey, I have gained proficiency in various fields, particularly in programming languages such as C, C++, Python, and JavaScript. I have also developed skills in technologies like Docker and UNIX/Linux.
 
-In my free time, I enjoy exploring the latest tech trends and staying updated on cybersecurity advancements. My goal is to become a skilled cybersecurity professional, and I’m eager to collaborate on projects that push the boundaries of what I know.</h3>
+Right now, I am focusing on penetration testing and continuously improving my skills in the field of cybersecurity.
+
+I’m passionate about technology and tech gadgets, and I love staying up-to-date with the latest advancements.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valyriasteel&label=Profile%20views&color=0e75b6&style=flat" alt="valyriasteel" /> </p>
 
