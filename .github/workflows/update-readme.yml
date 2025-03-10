@@ -28,5 +28,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "README istatistikleri güncellendi" || echo "Değişiklik yok"
-          # Token ile push yap
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/valyriasteel/valyriasteel.git main
+          # Token ile push yap, doğru URL formatı
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/valyriasteel/valyriasteel.git" main
