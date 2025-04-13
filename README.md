@@ -19,7 +19,7 @@ I’m passionate about technology and tech gadgets, and I love staying up-to-dat
 </p>
 
 <h3 align="left">My Competitive Programming Profiles:</h3>
-<a href="https://www.hackerrank.com/beratbosnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beratbosnak" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/beratbosnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beratbosnak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/beratbosnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beratbosnak" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@beratbosnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@beratbosnak" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/beratbosnak/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="beratbosnak/profile" height="30" width="40" /></a>
